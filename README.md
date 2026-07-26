@@ -13,7 +13,7 @@ This project is an interactive HR Analytics Dashboard developed using Power BI t
 ![Overall Dashboard](Images/HR_Dashboard.png)
 
 ### All Departments
-![All Departments](Images/HR_.png)
+![Administration](Images/HR_.png)
 
 ### Finance Department
 ![Finance](Images/HR_Finance.png)
