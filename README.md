@@ -19,7 +19,7 @@ This project is an interactive HR Analytics Dashboard developed using Power BI t
 ![Finance](Images/HR_Finance.png)
 
 ### Human Resources
-![Human Resources](Images/Human Reasoure.png)
+![Human Reasoure](Images/Human Reasoure.png)
 
 ### Marketing
 ![Marketing](Images/Marketing.png)
